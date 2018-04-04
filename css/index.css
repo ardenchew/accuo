@@ -231,6 +231,11 @@ html, body {
     width: 50px;
 }
 
+.home-bubble-title {
+    width: 50px;
+    color: white;
+}
+
 .team-bubble-title-white, .news-bubble-title-white {
     color: white;
     background-color: #2D4675;
@@ -331,6 +336,13 @@ html, body {
 
 #tech > .em-paragraph {
     padding-top: 25px;
+}
+
+.cover-image {
+    z-index: 0;
+    top: 0px;
+    width: 100%;
+    height: 100%;
 }
 
 .tech-image {
