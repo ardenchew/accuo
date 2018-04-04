@@ -1,3 +1,3 @@
 # accuo-site
 
-[Live link](accuo.org)
+[Live link](https://ardenchew.github.io/accuo)
